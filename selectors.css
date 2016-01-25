@@ -1,0 +1,47 @@
+header {
+  border: 3px dashed orange;
+}
+
+nav li {
+  color: red;
+  list-style: none;
+  padding: 0px 20px 0px 5px;
+  display: inline;
+}
+
+.disabled {
+  color: gray;
+}
+
+.disabled-a {
+  color: purple;
+}
+
+.active {
+  color: #d9b611;
+}
+
+.red-char {
+  color: red;
+}
+
+.blue-char {
+  color: blue;
+}
+
+.sibling1 {
+  background-color: red;
+}
+
+.sibling2 {
+  background-color: blue;
+}
+
+.dirgrand {
+  border: 1px green solid;
+  border-radius: 5px;
+}
+
+input {
+  font-size: 25px;
+}
